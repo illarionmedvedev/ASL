@@ -1,0 +1,26 @@
+.background_viget{
+    position: absolute;
+    background-color: #f8f8f8;
+    width: 100%;
+    height: 100%;
+    padding-top: 82px;
+}
+.viget_card{
+    background-color: #045295;
+    width: 100%;
+    height: 77px;
+    position: relative;
+}
+.viget_title{
+    position: absolute;
+    left: 41px;
+    font-size: 25px;
+    top:21px;
+    color: white;
+}
+.viget_icon>img{
+    position: absolute;
+    right: 33px;
+    top:23px;
+    width: 35px;
+}

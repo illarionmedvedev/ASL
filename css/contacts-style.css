@@ -1,0 +1,96 @@
+.contact_list{
+    padding: 0px;
+}
+.contact_part{
+    height: 77px;
+    width: 100%;
+    background-color: white;
+    margin-bottom:4px;
+    position: relative;
+}
+.contact_part:hover{
+    cursor: pointer;
+    color: white !important;
+    background-color: #045295;
+}
+.contact_avatar{
+    width: 67px;
+    position: absolute;
+    top:6px;
+    left: 13px;
+}
+.contact_title2{
+  position: absolute;
+    font-size:20px;
+    color:#045295;
+    top:25px;
+    left:99px;
+}
+a { color: inherit; } 
+.profile_card{
+    background-color: #00539b;
+    height: 157px;
+    position: relative;
+}
+.profile_image{
+    width: 118px;
+    height: 114px;
+    position: absolute;
+    margin-top:8px;
+    margin-left:13px;
+}
+.profile_name{
+    font-size:21px;
+    color:white;
+    position: absolute;
+    margin-top:50px;
+    margin-left:151px;
+}
+.profile_job{
+    font-size:16px;
+    color:#b9bbbe;
+    position: absolute;
+    margin-top:75px;
+    margin-left:151px;
+}
+.profile_company{
+    font-size:21px;
+    color:white;
+    position: absolute;
+    margin-top:109px;
+    margin-left:151px;
+}
+.contact_info{
+    padding: 0px;
+    padding-top: 38px; 
+    position: relative;
+}
+.contact_info>li{
+   list-style: none;
+    margin-bottom: 20px;
+}
+.contact_title{
+    font-size: 18px;
+    color:#045295;
+    margin-left: 53px;
+}
+.home_phone{
+    position: absolute;
+    width: 32px;
+    margin-left: 14px;
+}
+.mobile_phone{
+    position: absolute;
+    width: 27px;
+    margin-left: 14px;
+}
+.email{
+    position: absolute;
+    width: 32px;
+    margin-left: 12px;
+}
+.office{
+    position: absolute;
+    width: 20px;
+    margin-left: 18px;
+}
